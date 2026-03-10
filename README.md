@@ -151,5 +151,5 @@
 <br>
 
 <div align="center">
-  <i>Enterprise Incident Tracker © 2025. All Rights Reserved.</i>
+  <i>Enterprise Incident Tracker © 2026. All Rights Reserved.</i>
 </div>
